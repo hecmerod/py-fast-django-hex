@@ -1,0 +1,2 @@
+class ConcertNotFoundError(Exception):
+    pass
